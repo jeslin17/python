@@ -1,0 +1,11 @@
+Task 1:
+Pi=3.14
+r=float(input("Enter the radius of a circle:") 
+Area= Pi×r×r
+Print("Area of the circle=%.2f"%area) 
+
+Task 2:
+Filename=input("input the filename:") 
+fextns=filename.split(".") 
+Print("The extension of the file is:"+repr(fextens[-1])) 
+© 2021 GitHub, Inc.
